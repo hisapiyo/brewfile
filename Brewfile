@@ -6,6 +6,7 @@ cask android-studio
 cask appcleaner
 cask atom
 cask cheatsheet
+cask dash
 cask dropbox
 cask firefox
 cask github-desktop
@@ -29,8 +30,10 @@ brew openssl
 tap rcmdnk/file
 brew brew-file
 
-# Cask applications
-cask vlc-remote
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask vlc-remote (!)
 
 # App Store applications
 appstore 816078099 Comic Viewer Lite (1.0)
