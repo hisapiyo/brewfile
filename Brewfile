@@ -10,10 +10,14 @@ cask dash
 cask dropbox
 cask firefox
 cask github-desktop
+cask google-chrome
 cask google-earth-pro
+cask google-japanese-ime
+cask iterm2
 cask karabiner
 cask mucommander
 cask sequel-pro
+cask skype
 cask slack
 cask xamarin-studio
 
@@ -21,19 +25,20 @@ tap caskroom/versions
 cask java7
 
 tap homebrew/core
+brew awscli
+brew cscope
+brew figlet
 brew go
+brew htop
 brew jenv
+brew macvim
 brew mas
 brew mysql
 brew openssl
+brew python
 
 tap rcmdnk/file
 brew brew-file
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask vlc-remote (!)
 
 # App Store applications
 appstore 816078099 Comic Viewer Lite (1.0)
