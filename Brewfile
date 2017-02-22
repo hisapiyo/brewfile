@@ -29,6 +29,7 @@ brew awscli
 brew cscope
 brew figlet
 brew go
+brew heroku
 brew htop
 brew jenv
 brew macvim
@@ -36,6 +37,7 @@ brew mas
 brew mysql
 brew openssl
 brew python
+brew trash
 
 tap rcmdnk/file
 brew brew-file
@@ -53,3 +55,7 @@ appstore 867299399 OmniFocus (2.8.2)
 appstore 409201541 Pages (6.0.5)
 appstore 414298354 ToyViewer (5.4.0)
 appstore 409789998 Twitter (4.2.4)
+
+# Other commands
+echo 'alias rm="trash"' >> ~/.bash_profile
+echo 'alias top="htop"' >> ~/.bash_profile
