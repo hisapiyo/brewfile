@@ -6,6 +6,7 @@ cask android-studio
 cask appcleaner
 cask atom
 cask cheatsheet
+cask evernote
 cask dash
 cask dropbox
 cask firefox
@@ -19,6 +20,7 @@ cask mucommander
 cask sequel-pro
 cask skype
 cask slack
+cask vlc
 cask xamarin-studio
 
 tap caskroom/versions
@@ -31,13 +33,18 @@ brew figlet
 brew go
 brew heroku
 brew htop
+brew hub
+brew icu4c
 brew jenv
 brew macvim
 brew mas
 brew mysql
+brew node
 brew openssl
 brew python
+brew sphinx
 brew trash
+brew wget
 
 tap rcmdnk/file
 brew brew-file
