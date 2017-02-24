@@ -5,10 +5,13 @@ tap caskroom/cask
 cask android-studio
 cask appcleaner
 cask atom
+cask charles
 cask cheatsheet
-cask evernote
+cask coderunner
+cask cyberduck
 cask dash
 cask dropbox
+cask evernote
 cask firefox
 cask github-desktop
 cask google-chrome
@@ -17,6 +20,7 @@ cask google-japanese-ime
 cask iterm2
 cask karabiner
 cask mucommander
+cask mysqlworkbench
 cask sequel-pro
 cask skype
 cask slack
@@ -29,7 +33,9 @@ cask java7
 tap homebrew/core
 brew awscli
 brew cscope
+brew embulk
 brew figlet
+brew fortune
 brew go
 brew heroku
 brew htop
@@ -39,8 +45,11 @@ brew jenv
 brew macvim
 brew mas
 brew mysql
+brew nginx
 brew node
 brew openssl
+brew openssl@1.1
+brew pcre
 brew python
 brew sphinx
 brew trash
