@@ -5,6 +5,7 @@ tap caskroom/cask
 cask android-studio
 cask appcleaner
 cask atom
+cask ccleaner
 cask charles
 cask cheatsheet
 cask coderunner
@@ -13,6 +14,7 @@ cask dash
 cask dropbox
 cask evernote
 cask firefox
+cask gimp
 cask github-desktop
 cask google-chrome
 cask google-earth-pro
@@ -31,7 +33,9 @@ tap caskroom/versions
 cask java7
 
 tap homebrew/core
+brew asciiquarium
 brew awscli
+brew cmatrix
 brew cscope
 brew embulk
 brew figlet
@@ -51,6 +55,7 @@ brew openssl
 brew openssl@1.1
 brew pcre
 brew python
+brew sl
 brew sphinx
 brew trash
 brew wget
