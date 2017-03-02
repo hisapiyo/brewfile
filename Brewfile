@@ -19,6 +19,7 @@ cask github-desktop
 cask google-chrome
 cask google-earth-pro
 cask google-japanese-ime
+cask intellij-idea
 cask iterm2
 cask karabiner
 cask mucommander
