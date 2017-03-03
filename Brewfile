@@ -27,6 +27,7 @@ cask mysqlworkbench
 cask sequel-pro
 cask skype
 cask slack
+cask spectacle
 cask vlc
 cask xamarin-studio
 
@@ -55,6 +56,7 @@ brew node
 brew openssl
 brew openssl@1.1
 brew pcre
+brew pidcat
 brew python
 brew sl
 brew sphinx
