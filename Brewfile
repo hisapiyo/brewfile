@@ -14,6 +14,7 @@ cask dash
 cask dropbox
 cask evernote
 cask firefox
+cask genymotion
 cask gimp
 cask github-desktop
 cask google-chrome
@@ -28,6 +29,8 @@ cask sequel-pro
 cask skype
 cask slack
 cask spectacle
+cask steam
+cask virtualbox
 cask vlc
 cask xamarin-studio
 
