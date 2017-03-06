@@ -42,6 +42,7 @@ brew asciiquarium
 brew awscli
 brew cmatrix
 brew cscope
+brew docker
 brew embulk
 brew figlet
 brew fortune
@@ -59,6 +60,7 @@ brew node
 brew openssl
 brew openssl@1.1
 brew pcre
+brew peco
 brew pidcat
 brew python
 brew sl
