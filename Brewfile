@@ -14,6 +14,7 @@ cask dash
 cask dropbox
 cask evernote
 cask firefox
+cask franz
 cask genymotion
 cask gimp
 cask github-desktop
@@ -22,9 +23,11 @@ cask google-earth-pro
 cask google-japanese-ime
 cask intellij-idea
 cask iterm2
+cask kap
 cask karabiner
 cask mucommander
 cask mysqlworkbench
+cask ngrok
 cask sequel-pro
 cask skype
 cask slack
@@ -66,6 +69,7 @@ brew python
 brew sl
 brew sphinx
 brew trash
+brew tree
 brew wget
 
 tap rcmdnk/file
