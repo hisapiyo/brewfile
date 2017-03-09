@@ -19,6 +19,7 @@ cask genymotion
 cask gimp
 cask github-desktop
 cask google-chrome
+cask google-drive
 cask google-earth-pro
 cask google-japanese-ime
 cask intellij-idea
@@ -28,6 +29,7 @@ cask karabiner
 cask mucommander
 cask mysqlworkbench
 cask ngrok
+cask rubymine
 cask sequel-pro
 cask skype
 cask slack
