@@ -11,6 +11,7 @@ cask cheatsheet
 cask coderunner
 cask cyberduck
 cask dash
+cask docker
 cask dropbox
 cask evernote
 cask firefox
@@ -45,6 +46,7 @@ cask java7
 tap homebrew/core
 brew asciiquarium
 brew awscli
+brew bash-completion
 brew cmatrix
 brew cscope
 brew docker
@@ -55,6 +57,7 @@ brew go
 brew heroku
 brew htop
 brew hub
+brew hugo
 brew icu4c
 brew jenv
 brew macvim
