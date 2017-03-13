@@ -71,6 +71,7 @@ brew pcre
 brew peco
 brew pidcat
 brew python
+brew q
 brew sl
 brew sphinx
 brew trash
@@ -79,6 +80,9 @@ brew wget
 
 tap rcmdnk/file
 brew brew-file
+
+tap sanemat/font
+brew ricty
 
 # App Store applications
 appstore 816078099 Comic Viewer Lite (1.0)
