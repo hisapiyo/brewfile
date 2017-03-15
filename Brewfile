@@ -27,6 +27,8 @@ cask intellij-idea
 cask iterm2
 cask kap
 cask karabiner
+cask kindle
+cask macs-fan-control
 cask mucommander
 cask mysqlworkbench
 cask ngrok
@@ -36,9 +38,12 @@ cask skype
 cask slack
 cask spectacle
 cask steam
+cask the-unarchiver
+cask tomighty
 cask virtualbox
 cask vlc
 cask xamarin-studio
+cask xtrafinder
 
 tap caskroom/versions
 cask java7
