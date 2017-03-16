@@ -5,6 +5,7 @@ tap caskroom/cask
 cask android-studio
 cask appcleaner
 cask atom
+cask caffeine
 cask ccleaner
 cask charles
 cask cheatsheet
@@ -32,6 +33,7 @@ cask macs-fan-control
 cask mucommander
 cask mysqlworkbench
 cask ngrok
+cask refresh-finder
 cask rubymine
 cask sequel-pro
 cask skype
