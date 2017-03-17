@@ -50,6 +50,8 @@ cask xtrafinder
 tap caskroom/versions
 cask java7
 
+tap fumiyas/echo-sd
+
 tap homebrew/core
 brew asciiquarium
 brew awscli
