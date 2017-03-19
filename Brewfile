@@ -45,10 +45,14 @@ cask tomighty
 cask virtualbox
 cask vlc
 cask xamarin-studio
+cask xmind
 cask xtrafinder
 
 tap caskroom/versions
 cask java7
+
+tap fumiyas/echo-sd
+brew echo-sd
 
 tap fumiyas/echo-sd
 
