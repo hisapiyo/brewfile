@@ -29,6 +29,7 @@ cask iterm2
 cask kap
 cask karabiner
 cask kindle
+cask lastpass
 cask macs-fan-control
 cask mucommander
 cask mysqlworkbench
@@ -42,6 +43,8 @@ cask spectacle
 cask steam
 cask the-unarchiver
 cask tomighty
+cask torbrowser
+cask veracrypt
 cask virtualbox
 cask vlc
 cask xamarin-studio
