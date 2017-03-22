@@ -65,6 +65,7 @@ brew awscli
 brew bash-completion
 brew cmatrix
 brew cscope
+brew curl
 brew docker
 brew embulk
 brew figlet
