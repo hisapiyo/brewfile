@@ -12,6 +12,7 @@ cask cheatsheet
 cask coderunner
 cask cyberduck
 cask dash
+cask disk-inventory-x
 cask docker
 cask dropbox
 cask evernote
