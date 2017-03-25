@@ -94,6 +94,7 @@ brew sl
 brew sphinx
 brew trash
 brew tree
+brew vegeta
 brew wget
 
 tap rcmdnk/file
