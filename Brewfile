@@ -38,6 +38,7 @@ cask ngrok
 cask refresh-finder
 cask rubymine
 cask sequel-pro
+cask skitch
 cask skype
 cask slack
 cask spectacle
@@ -92,6 +93,7 @@ brew python
 brew q
 brew sl
 brew sphinx
+brew swiftlint
 brew trash
 brew tree
 brew vegeta
