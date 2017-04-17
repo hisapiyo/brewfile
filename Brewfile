@@ -63,6 +63,7 @@ tap fumiyas/echo-sd
 
 tap homebrew/core
 brew asciiquarium
+brew autoconf
 brew awscli
 brew bash-completion
 brew cmatrix
@@ -72,13 +73,19 @@ brew docker
 brew embulk
 brew figlet
 brew fortune
+brew freetype
 brew go
 brew heroku
 brew htop
 brew hub
 brew hugo
 brew icu4c
+brew imagemagick
 brew jenv
+brew jpeg
+brew libpng
+brew libtiff
+brew libtool
 brew macvim
 brew mas
 brew mysql
@@ -89,8 +96,11 @@ brew openssl@1.1
 brew pcre
 brew peco
 brew pidcat
+brew pkg-config
 brew python
 brew q
+brew rbenv
+brew ruby-build
 brew sl
 brew sphinx
 brew swiftlint
@@ -98,6 +108,7 @@ brew trash
 brew tree
 brew vegeta
 brew wget
+brew xz
 
 tap rcmdnk/file
 brew brew-file
