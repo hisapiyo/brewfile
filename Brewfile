@@ -90,6 +90,7 @@ brew macvim
 brew mas
 brew mysql
 brew nginx
+brew nmap
 brew node
 brew openssl
 brew openssl@1.1
