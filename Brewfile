@@ -113,7 +113,9 @@ brew pcre
 brew peco
 brew pidcat
 brew pkg-config
+brew protobuf
 brew python
+brew python3
 brew q
 brew rbenv
 brew ruby-build
