@@ -101,6 +101,7 @@ brew libtool
 brew libunistring
 brew macvim
 brew mas
+brew mitmproxy
 brew mysql
 brew nettle
 brew nginx
