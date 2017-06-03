@@ -55,7 +55,6 @@ cask xmind
 cask xtrafinder
 
 tap caskroom/versions
-cask java7
 
 tap fumiyas/echo-sd
 brew echo-sd
@@ -91,6 +90,7 @@ brew icu4c
 brew imagemagick
 brew jenv
 brew jpeg
+brew jq
 brew libffi
 brew libgcrypt
 brew libgpg-error
@@ -107,6 +107,7 @@ brew nettle
 brew nginx
 brew nmap
 brew node
+brew oniguruma
 brew openssl
 brew openssl@1.1
 brew p11-kit
@@ -126,6 +127,7 @@ brew swiftlint
 brew trash
 brew tree
 brew vegeta
+brew webp
 brew wget
 brew wireshark
 brew xz
@@ -135,6 +137,9 @@ brew brew-file
 
 tap sanemat/font
 brew ricty
+
+# Cask applications
+cask java7
 
 # App Store applications
 appstore 816078099 Comic Viewer Lite (1.0)
