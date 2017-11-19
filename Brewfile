@@ -20,9 +20,7 @@ cask firefox
 cask franz
 cask genymotion
 cask gimp
-cask github-desktop
 cask google-chrome
-cask google-drive
 cask google-earth-pro
 cask google-japanese-ime
 cask intellij-idea
@@ -67,12 +65,15 @@ brew autoconf
 brew awscli
 brew bash-completion
 brew c-ares
+brew carthage
+brew chromedriver
 brew cmatrix
 brew cscope
 brew curl
 brew dbus
 brew docker
 brew embulk
+brew ffmpeg
 brew figlet
 brew fortune
 brew freetype
@@ -91,6 +92,7 @@ brew imagemagick
 brew jenv
 brew jpeg
 brew jq
+brew lame
 brew libffi
 brew libgcrypt
 brew libgpg-error
@@ -113,6 +115,7 @@ brew openssl@1.1
 brew p11-kit
 brew pcre
 brew peco
+brew phantomjs
 brew pidcat
 brew pkg-config
 brew protobuf
@@ -121,6 +124,7 @@ brew python3
 brew q
 brew rbenv
 brew ruby-build
+brew selenium-server-standalone
 brew sl
 brew sphinx
 brew swiftlint
@@ -130,6 +134,8 @@ brew vegeta
 brew webp
 brew wget
 brew wireshark
+brew x264
+brew xvid
 brew xz
 
 tap rcmdnk/file
@@ -139,6 +145,8 @@ tap sanemat/font
 brew ricty
 
 # Cask applications
+cask github-desktop
+cask google-drive
 cask java7
 
 # App Store applications
