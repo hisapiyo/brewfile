@@ -14,11 +14,8 @@ cask cyberduck
 cask dash
 cask disk-inventory-x
 cask docker
-cask dropbox
-cask evernote
 cask firefox
 cask franz
-cask genymotion
 cask gimp
 cask google-chrome
 cask google-earth-pro
@@ -35,9 +32,6 @@ cask mysqlworkbench
 cask ngrok
 cask refresh-finder
 cask rubymine
-cask sequel-pro
-cask skitch
-cask skype
 cask slack
 cask spectacle
 cask steam
@@ -45,10 +39,8 @@ cask swimat
 cask the-unarchiver
 cask tomighty
 cask torbrowser
-cask veracrypt
 cask virtualbox
 cask vlc
-cask xamarin-studio
 cask xmind
 cask xtrafinder
 
@@ -147,21 +139,9 @@ brew ricty
 # Cask applications
 cask github-desktop
 cask google-drive
-cask java7
 
 # App Store applications
-appstore 816078099 Comic Viewer Lite (1.0)
-appstore 403858460 EchofonLite (1.8.7)
-appstore 406056744 Evernote (6.10)
-appstore 682658836 GarageBand (10.1.6)
-appstore 408981434 iMovie (10.1.4)
-appstore 409183694 Keynote (7.0.5)
-appstore 451444120 Memory Clean (6.2)
-appstore 409203825 Numbers (4.0.5)
-appstore 867299399 OmniFocus (2.8.2)
-appstore 409201541 Pages (6.0.5)
-appstore 414298354 ToyViewer (5.4.0)
-appstore 409789998 Twitter (4.2.4)
+# appstore 451444120 Memory Clean (6.2)
 
 # Other commands
 echo 'alias rm="trash"' >> ~/.bash_profile
