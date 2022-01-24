@@ -119,6 +119,7 @@ brew ruby-build
 brew selenium-server-standalone
 brew sl
 brew sphinx
+brew swagger-codegen
 brew swiftlint
 brew trash
 brew tree
