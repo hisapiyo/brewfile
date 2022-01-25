@@ -95,6 +95,7 @@ brew libtool
 brew libunistring
 brew macvim
 brew mas
+brew mint
 brew mitmproxy
 brew mysql
 brew nettle
