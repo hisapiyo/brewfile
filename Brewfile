@@ -41,6 +41,7 @@ cask tomighty
 cask torbrowser
 cask virtualbox
 cask vlc
+cask visual-studio-code-insiders
 cask xmind
 cask xtrafinder
 
