@@ -12,25 +12,21 @@ cask cheatsheet
 cask coderunner
 cask cyberduck
 cask dash
+cask dbeaver-community
 cask disk-inventory-x
 cask docker
 cask firefox
-cask franz
 cask gimp
 cask google-chrome
 cask google-earth-pro
 cask google-japanese-ime
+cask gradle
 cask intellij-idea
 cask iterm2
 cask kap
 cask karabiner
 cask kindle
-cask lastpass
-cask macs-fan-control
-cask mucommander
-cask mysqlworkbench
 cask ngrok
-cask refresh-finder
 cask rubymine
 cask slack
 cask spectacle
@@ -39,11 +35,9 @@ cask swimat
 cask the-unarchiver
 cask tomighty
 cask torbrowser
-cask virtualbox
 cask vlc
 cask visual-studio-code-insiders
 cask xmind
-cask xtrafinder
 
 tap caskroom/versions
 
