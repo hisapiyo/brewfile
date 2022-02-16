@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask android-file-transfer
 cask android-studio
 cask appcleaner
 cask atom
@@ -10,6 +11,8 @@ cask ccleaner
 cask charles
 cask cheatsheet
 cask coderunner
+cask copyclip
+cask coteditor
 cask cyberduck
 cask dash
 cask dbeaver-community
@@ -17,17 +20,25 @@ cask disk-inventory-x
 cask docker
 cask firefox
 cask gimp
+cask google-analytics-opt-out
 cask google-chrome
 cask google-earth-pro
 cask google-japanese-ime
 cask gradle
+cask gitify
 cask intellij-idea
 cask iterm2
 cask kap
 cask karabiner
 cask kindle
+cask krisp
+cask line
 cask ngrok
+cask parallels
+cask paragon-ntfs
+cask paw
 cask rubymine
+cask sf-symbols
 cask slack
 cask spectacle
 cask steam
@@ -35,6 +46,7 @@ cask swimat
 cask the-unarchiver
 cask tomighty
 cask torbrowser
+cask unity-hub
 cask vlc
 cask visual-studio-code-insiders
 cask xmind
