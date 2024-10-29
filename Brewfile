@@ -30,6 +30,7 @@ cask intellij-idea
 cask iterm2
 cask kap
 cask karabiner
+cask keyclu
 cask kindle
 cask krisp
 cask line
