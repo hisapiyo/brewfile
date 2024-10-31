@@ -18,6 +18,7 @@ cask dash
 cask dbeaver-community
 cask disk-inventory-x
 cask docker
+cask elgato-stream-deck
 cask firefox
 cask gimp
 cask google-analytics-opt-out
