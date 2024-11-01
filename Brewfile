@@ -2,65 +2,14 @@
 # tap repositories and their packages
 
 tap caskroom/cask
-cask android-file-transfer
-cask android-studio
-cask appcleaner
-cask atom
-cask caffeine
-cask ccleaner
-cask charles
-cask cheatsheet
-cask coderunner
-cask copyclip
-cask coteditor
-cask cyberduck
-cask dash
-cask dbeaver-community
-cask disk-inventory-x
-cask docker
-cask elgato-stream-deck
-cask firefox
-cask gimp
-cask google-analytics-opt-out
-cask google-chrome
-cask google-earth-pro
-cask google-japanese-ime
-cask gradle
-cask gitify
-cask intellij-idea
-cask iterm2
-cask kap
-cask karabiner
-cask keyclu
-cask kindle
-cask krisp
-cask line
-cask ngrok
-cask parallels
-cask paragon-ntfs
-cask paw
-cask rubymine
-cask sf-symbols
-cask slack
-cask spectacle
-cask steam
-cask swimat
-cask the-unarchiver
-cask tomighty
-cask torbrowser
-cask unity-hub
-cask vlc
-cask visual-studio-code-insiders
-cask xmind
-
 tap caskroom/versions
-
 tap fumiyas/echo-sd
-brew echo-sd
-
 tap fumiyas/echo-sd
-
 tap homebrew/core
+tap rcmdnk/file
+tap sanemat/font
+
+brew echo-sd
 brew asciiquarium
 brew autoconf
 brew awscli
@@ -140,19 +89,63 @@ brew wireshark
 brew x264
 brew xvid
 brew xz
-
-tap rcmdnk/file
 brew brew-file
-
-tap sanemat/font
 brew ricty
 
 # Cask applications
+cask android-file-transfer
+cask android-studio
+cask appcleaner
+cask atom
+cask caffeine
+cask cask
+cask ccleaner
+cask charles
+cask cheatsheet
+cask coderunner
+cask copyclip
+cask coteditor
+cask cyberduck
+cask dash
+cask dbeaver-community
+cask disk-inventory-x
+cask docker
+cask elgato-stream-deck
+cask firefox
+cask gimp
+cask gitify
 cask github-desktop
+cask google-analytics-opt-out
+cask google-chrome
 cask google-drive
-
-# App Store applications
-# appstore 451444120 Memory Clean (6.2)
+cask google-earth-pro
+cask google-japanese-ime
+cask gradle
+cask intellij-idea
+cask iterm2
+cask kap
+cask karabiner
+cask keyclu
+cask kindle
+cask krisp
+cask line
+cask ngrok
+cask parallels
+cask paragon-ntfs
+cask paw
+cask rubymine
+cask sf-symbols
+cask slack
+cask spectacle
+cask steam
+cask swimat
+cask the-unarchiver
+cask tomighty
+cask torbrowser
+cask unity-hub
+cask visual-studio-code-insiders
+cask vlc
+cask xmind
 
 # Other commands
 echo 'alias rm="trash"' >> ~/.bash_profile
