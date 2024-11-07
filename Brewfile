@@ -143,7 +143,6 @@ cask steam
 cask swimat
 cask the-unarchiver
 cask tomighty
-cask torbrowser
 cask unity-hub
 cask visual-studio-code
 cask vlc
