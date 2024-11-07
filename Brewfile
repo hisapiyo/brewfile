@@ -101,6 +101,7 @@ cask caffeine
 cask cask
 cask ccleaner
 cask charles
+cask chatgpt
 cask cheatsheet
 cask coderunner
 cask copyclip
@@ -130,6 +131,7 @@ cask kindle
 cask krisp
 cask line
 cask ngrok
+cask notion
 cask parallels
 cask paragon-ntfs
 cask paw
@@ -143,7 +145,7 @@ cask the-unarchiver
 cask tomighty
 cask torbrowser
 cask unity-hub
-cask visual-studio-code-insiders
+cask visual-studio-code
 cask vlc
 cask xmind
 
