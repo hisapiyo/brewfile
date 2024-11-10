@@ -112,6 +112,7 @@ cask dbeaver-community
 cask disk-inventory-x
 cask docker
 cask elgato-stream-deck
+cask figma
 cask firefox
 cask gimp
 cask gitify
