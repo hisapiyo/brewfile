@@ -56,6 +56,7 @@ brew mas
 brew mint
 brew mitmproxy
 brew mysql
+brew neovim
 brew nettle
 brew nginx
 brew nmap
