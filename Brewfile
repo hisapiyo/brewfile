@@ -104,6 +104,7 @@ cask ccleaner
 cask charles
 cask chatgpt
 cask cheatsheet
+cask clipy
 cask coderunner
 cask copyclip
 cask coteditor
@@ -133,6 +134,7 @@ cask keyclu
 cask kindle
 cask krisp
 cask line
+cask mousepose
 cask ngrok
 cask notion
 cask parallels
