@@ -108,9 +108,12 @@ cask clipy
 cask coderunner
 cask copyclip
 cask coteditor
+cask cursor
 cask cyberduck
 cask dash
 cask dbeaver-community
+cask deepl
+cask discord
 cask disk-inventory-x
 cask docker
 cask elgato-stream-deck
@@ -137,9 +140,12 @@ cask line
 cask mousepose
 cask ngrok
 cask notion
+cask nvidia-geforce-now
 cask parallels
 cask paragon-ntfs
 cask paw
+cask popclip
+cask raycast
 cask rubymine
 cask sf-symbols
 cask slack
@@ -151,6 +157,7 @@ cask tomighty
 cask unity-hub
 cask visual-studio-code
 cask vlc
+cask wireshark
 cask xmind
 
 # Other commands
