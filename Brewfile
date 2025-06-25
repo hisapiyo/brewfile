@@ -29,6 +29,7 @@ brew fortune
 brew freetype
 brew geoip
 brew gettext
+brew gh
 brew glib
 brew gmp
 brew gnutls
@@ -81,6 +82,7 @@ brew sl
 brew sphinx
 brew swagger-codegen
 brew swiftlint
+brew tmux
 brew trash
 brew tree
 brew vegeta
