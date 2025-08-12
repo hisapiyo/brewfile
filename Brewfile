@@ -137,7 +137,7 @@ cask kap
 cask karabiner
 cask keyclu
 cask kindle
-cask krisp
+cask kiro
 cask line
 cask mousepose
 cask ngrok
