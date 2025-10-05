@@ -109,10 +109,10 @@ cask cheatsheet
 cask clipy
 cask coderunner
 cask copyclip
-cask coteditor
 cask cursor
 cask cyberduck
 cask dash
+cask daisydisk
 cask dbeaver-community
 cask deepl
 cask discord
