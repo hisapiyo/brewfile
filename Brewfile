@@ -17,6 +17,7 @@ brew bash-completion
 brew c-ares
 brew carthage
 brew chromedriver
+brew cliclick
 brew cmatrix
 brew cscope
 brew curl
