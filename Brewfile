@@ -120,6 +120,7 @@ cask discord
 cask disk-inventory-x
 cask docker
 cask elgato-stream-deck
+cask eset-cyber-security
 cask fleet
 cask figma
 cask firefox
