@@ -45,6 +45,7 @@ brew jenv
 brew jpeg
 brew jq
 brew lame
+brew lfs
 brew libffi
 brew libgcrypt
 brew libgpg-error
