@@ -128,6 +128,7 @@ cask firefox
 cask gimp
 cask gitify
 cask github-desktop
+cask ghostty
 cask google-analytics-opt-out
 cask google-chrome
 cask google-drive
