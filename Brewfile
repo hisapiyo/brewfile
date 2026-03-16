@@ -84,6 +84,7 @@ brew sl
 brew sphinx
 brew swagger-codegen
 brew swiftlint
+brew stats
 brew tmux
 brew trash
 brew tree
