@@ -132,6 +132,7 @@ cask github-desktop
 cask ghostty
 cask google-analytics-opt-out
 cask google-chrome
+cask google-chrome-canary
 cask google-drive
 cask google-earth-pro
 cask google-japanese-ime
