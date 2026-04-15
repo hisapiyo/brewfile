@@ -108,6 +108,7 @@ cask "stats"
 cask "steam"
 cask "swimat"
 cask "vlc"
+cask "visual-studio-code"
 cask "wireshark-app"
 
 # Uninstalled cask apps
